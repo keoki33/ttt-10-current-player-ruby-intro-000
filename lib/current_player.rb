@@ -6,3 +6,4 @@ board.each do
   
 end
 end
+end
