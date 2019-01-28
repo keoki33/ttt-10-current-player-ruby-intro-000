@@ -5,5 +5,5 @@ board.each do |char|
       turns += 1
 end
 end
-char
+turns
 end
