@@ -7,3 +7,7 @@ end
 end
 turns
 end
+
+def current_player(board)
+
+end
